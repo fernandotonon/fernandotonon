@@ -9,11 +9,11 @@
 ### Frameworks
 
 #### Frontend
-[![Angular](https://img.shields.io/badge/Angular-00599C?style=for-the-badge&logo=angular&logoColor=ff0000)](https://angular.io/)
-[![Node](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=0000ff)]()
+[![Angular](https://img.shields.io/badge/Angular-AA599C?style=for-the-badge&logo=angular&logoColor=ff0000)](https://angular.io/)
+[![Node](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=ffffff)]()
 
 #### Backend
-[![Node](https://img.shields.io/badge/Node-14354C?style=for-the-badge&logo=javascript)]()
+[![Node](https://img.shields.io/badge/Node-34354C?style=for-the-badge&logo=javascript)]()
 
 #### Mobile
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
