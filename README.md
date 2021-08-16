@@ -3,17 +3,17 @@
 
 ### Languages
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/fernandotonon)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/fernandotonon)
 
 ### Frameworks
 
 #### Frontend
 [![Angular](https://img.shields.io/badge/Angular-AAAAAA?style=for-the-badge&logo=angular&logoColor=ff0000)](https://angular.io/)
-[![Node](https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=React&logoColor=ffffff)]()
+[![Node](https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=React&logoColor=ffffff)](https://github.com/fernandotonon)
 
 #### Backend
-[![Node](https://img.shields.io/badge/Node-34354C?style=for-the-badge&logo=javascript)]()
+[![Node](https://img.shields.io/badge/Node-34354C?style=for-the-badge&logo=javascript)](https://github.com/fernandotonon)
 
 #### Mobile
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
