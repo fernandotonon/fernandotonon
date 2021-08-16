@@ -10,7 +10,7 @@
 
 #### Frontend
 [![Angular](https://img.shields.io/badge/Angular-AAAAAA?style=for-the-badge&logo=angular&logoColor=ff0000)](https://angular.io/)
-[![Node](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=ffffff)]()
+[![Node](https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=React&logoColor=ffffff)]()
 
 #### Backend
 [![Node](https://img.shields.io/badge/Node-34354C?style=for-the-badge&logo=javascript)]()
