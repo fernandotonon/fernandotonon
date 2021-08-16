@@ -8,6 +8,13 @@
 
 ### Frameworks
 
+#### Frontend
+[![Angular](https://img.shields.io/badge/Angular-asd?style=for-the-badge&logo=angular&logoColor=ff0000)](https://angular.io/)
+[![Node](https://img.shields.io/badge/React-aas?style=for-the-badge&logo=React&logoColor=0000ff)]()
+
+#### Backend
+[![Node](https://img.shields.io/badge/Node-asds?style=for-the-badge&logo=javascript)]()
+
 #### Mobile
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com)
