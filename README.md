@@ -24,6 +24,10 @@
 
 #### Side Projects
 
+
+<img src="https://drive.google.com/uc?id=1o4jqxg5uFRrk6y0EYU_Go-5vPPL4TNzZ" width="300px"></img>
+Apr 2007: Procurado – Draft of a car chasing game. In this game, I’ve implemented loading the 3D objects from .OBJ format and rendering them directly on OpenGL. Technologies: C++, SDL, OpenGL
+
 <img src="https://drive.google.com/uc?id=1I2B-_a9y09oQNPpq8h5rpMN6YZoGtxBJ" width="300px"></img>
 Apr 2005 – Jul 2012: Arret – A MMORPG project (the first mistake of most indie developers). It is a client-server game, the project started with an idea of a 2D game and grew to 3D. Technologies: C++, SDL, Boost::Asio, Ogre3D, Qt, PostgreSQL 
 
