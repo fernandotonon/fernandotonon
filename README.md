@@ -26,7 +26,7 @@
 
 |Preview|Project||Description|Technologies|
 |---|---|---|---|---|
-||Clayground|2019 – Current| Clayground is a Qt-based toolset that allows using C++, JavaScript, and QML to rapidly develop apps in a sandbox environment with live loading capabilities. I’m participating in the development of this tool in association with a developer from Germany who started the project|C++, Qt/QML|
+|<img src="https://github.com/MisterGC/clayground/raw/main/res/screenshot_platformer.png" width="300px"></img>|[Clayground](https://github.com/MisterGC/clayground)|2019 – Current| Clayground is a Qt-based toolset that allows using C++, JavaScript, and QML to rapidly develop apps in a sandbox environment with live loading capabilities. I’m participating in the development of this tool in association with a developer from Germany who started the project|C++, Qt/QML|
 ||Ludum Dare Game Jams|2019 – 2021|Some games I made since 48h game contest, it is a competition that happens twice a year and gathers thousands of indie game developers|Qt/QML, WebAssembly, Audacity, MSPaint, and Gimp|
 |<img src="https://drive.google.com/uc?id=1gI-hI_zPOclH3kpTNpIoTpGt9SBQQEC6" width="300px"></img>|[Montality](https://github.com/MisterGC/montality2d)|2013 – 2019|A game engine where I participated in the development team, which had up to 4 developers from different nationalities, Brazil, Germany, and India|C++, Qt/QML|
 ||HardUO|Jan 2012 – May 2013|A tool for helping to play Ultima Online. It allows creating macros in LUA Script for automating actions inside the game| C++, Qt, LUA|
