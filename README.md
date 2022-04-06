@@ -24,12 +24,8 @@
 
 #### Side Projects
 
-
-<img src="https://drive.google.com/uc?id=1o4jqxg5uFRrk6y0EYU_Go-5vPPL4TNzZ" width="300px"></img>
-[Apr 2007: Procurado](https://bitbucket.org/hogpog/procurado/src/master/) – Draft of a car chasing game. In this game, I’ve implemented loading the 3D objects from .OBJ format and rendering them directly on OpenGL. Technologies: C++, SDL, OpenGL
-
-<img src="https://drive.google.com/uc?id=1I2B-_a9y09oQNPpq8h5rpMN6YZoGtxBJ" width="300px"></img>
-Apr 2005 – Jul 2012: Arret – A MMORPG project (the first mistake of most indie developers). It is a client-server game, the project started with an idea of a 2D game and grew to 3D. Technologies: C++, SDL, Boost::Asio, Ogre3D, Qt, PostgreSQL 
-
-[Aug 2006: Metal Coelho](https://bitbucket.org/hogpog/metal-coelho/src/master/) – A game made for a game contest. Made by me and a fellow developer for a month. 
-Technologies: C++, SDL
+|Preview|Project||Description|Technologies|
+|---|---|---|---|---|
+|<img src="https://drive.google.com/uc?id=1o4jqxg5uFRrk6y0EYU_Go-5vPPL4TNzZ" width="300px"></img>|[Procurado](https://bitbucket.org/hogpog/procurado/src/master/)|Apr 2007|Draft of a car chasing game. In this game, I’ve implemented loading the 3D objects from .OBJ format and rendering them directly on OpenGL.|C++, SDL, OpenGL|
+|<img src="https://drive.google.com/uc?id=1I2B-_a9y09oQNPpq8h5rpMN6YZoGtxBJ" width="300px"></img>|Arret|Apr 2005 – Jul 2012|A MMORPG project (the first mistake of most indie developers). It is a client-server game, the project started with an idea of a 2D game and grew to 3D.|C++, SDL, Boost::Asio, Ogre3D, Qt, PostgreSQL|
+||[Metal Coelho](https://bitbucket.org/hogpog/metal-coelho/src/master/)|Aug 2006|A game made for a game contest. Made by me and a fellow developer for a month.|C++, SDL|
