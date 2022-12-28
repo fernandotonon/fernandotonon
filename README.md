@@ -20,7 +20,8 @@
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com)
 
 #### Cross-platform
-[![Qt](https://img.shields.io/badge/Qt-5.15-41cd52.svg)](https://www.qt.io/)
+[![Qt](https://img.shields.io/badge/Qt-5.15-41cd52.svg)](https://www.qt.io/) 
+[![Qt](https://img.shields.io/badge/Qt-6.5-41cd52.svg)](https://www.qt.io/)
 
 #### Side Projects
 
