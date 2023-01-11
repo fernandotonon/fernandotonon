@@ -8,20 +8,13 @@
 
 ### Frameworks
 
-#### Frontend
-[![Angular](https://img.shields.io/badge/Angular-AAAAAA?style=for-the-badge&logo=angular&logoColor=ff0000)](https://angular.io/)
-[![Node](https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=React&logoColor=ffffff)](https://github.com/fernandotonon)
+Frontend|Backend
+-|-
+[![Angular](https://img.shields.io/badge/Angular-AAAAAA?style=for-the-badge&logo=angular&logoColor=ff0000)](https://angular.io/)[![React](https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=React&logoColor=ffffff)](https://github.com/fernandotonon)|[![Node](https://img.shields.io/badge/Node-34354C?style=for-the-badge&logo=javascript)](https://github.com/fernandotonon)
 
-#### Backend
-[![Node](https://img.shields.io/badge/Node-34354C?style=for-the-badge&logo=javascript)](https://github.com/fernandotonon)
-
-#### Mobile
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com)
-
-#### Cross-platform
-[![Qt](https://img.shields.io/badge/Qt-5.15-41cd52.svg)](https://www.qt.io/) 
-[![Qt](https://img.shields.io/badge/Qt-6.5-41cd52.svg)](https://www.qt.io/)
+Mobile|Cross-platform
+-|-
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com)|[![Qt](https://img.shields.io/badge/Qt-5.15-41cd52.svg)](https://www.qt.io/) [![Qt](https://img.shields.io/badge/Qt-6.5-41cd52.svg)](https://www.qt.io/)
 
 #### Side Projects
 
