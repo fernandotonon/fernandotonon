@@ -15,6 +15,10 @@ Mobile|Cross-platform
 -|-
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com)|[![Qt](https://img.shields.io/badge/Qt-6-41cd52.svg)](https://www.qt.io/)
 
+### NPM Packages
+
+[![NPM](https://img.shields.io/npm/v/eslint-plugin-no-commented-code?style=for-the-badge&label=eslint-plugin-no-commented-code&logo=npm)](https://npmjs.com/package/eslint-plugin-no-commented-code)
+
 #### Side Projects
 
 |Preview|Project||Description|Technologies|
