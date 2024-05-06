@@ -19,6 +19,13 @@ Mobile|Cross-platform
 
 [![NPM](https://img.shields.io/npm/v/eslint-plugin-no-commented-code?style=for-the-badge&label=eslint-plugin-no-commented-code&logo=npm)](https://npmjs.com/package/eslint-plugin-no-commented-code)
 
+### Contributions to Open Source Projects
+[![Ogre3D](https://img.shields.io/badge/Ogre3D-323330?style=for-the-badge&logo=Ogre3D&logoColor=F7DF1E)](https://github.com/OGRECave/ogre)
+
+[![Ogre Procedural](https://img.shields.io/badge/Ogre--Procedural-323330?style=for-the-badge&logo=ogre-procedural&logoColor=F7DF1E)](https://github.com/OGRECave/ogre-procedural)
+
+[![SkyDive](https://img.shields.io/badge/SkyDive-323330?style=for-the-badge&logo=SkyDive&logoColor=F7DF1E)](https://github.com/skydive-project/skydive)
+
 #### Side Projects
 
 |Preview|Project||Description|Technologies|
