@@ -26,6 +26,8 @@ Mobile|Cross-platform
 
 [![SkyDive](https://img.shields.io/badge/SkyDive-323330?style=for-the-badge&logo=SkyDive&logoColor=F7DF1E)](https://github.com/skydive-project/skydive)
 
+[![trellis.cpp](https://github.com/pwilkin/trellis.cpp/pull/44(
+
 #### Side Projects
 
 |Preview|Project||Description|Technologies|
