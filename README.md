@@ -1,6 +1,31 @@
 <a name="top"></a>
 # Hi there <a href="https://ppl.moe/u/xanny/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="30px"></a>
 
+## 🚀 Featured
+
+| | Project | What it is |
+|---|---|---|
+| ☁️ | **[QtMesh Cloud](https://qtmesh.dev)** | A SonarCloud-style service for 3D asset quality: ingest `qtmesh scan` reports from CI, track quality history and findings per project, and show live badges in your README. Also home to the [QtMesh Marketplace](https://qtmesh.dev/marketplace). Built on Cloudflare Workers, D1 and R2. ([repo](https://github.com/fernandotonon/qtmesh-cloud)) |
+| 🎮 | **[QtMesh Games](https://games.qtmesh.dev)** | My indie studio: *Small games. Big fun.* Browser games, Roblox experiences and downloadable titles, all playable from one showcase site. ([site repo](https://github.com/fernandotonon/qtmesh-games-web)) |
+| 🛠️ | **[QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor)** ⭐ | Free 3D asset tool for indie devs: merge animations, convert between 40+ formats and edit materials with AI. It also runs [in the browser](https://editor.qtmesh.dev). |
+
+### 🕹️ Recent games from QtMesh Games
+
+| Game | Platform | Engine |
+|---|---|---|
+| [Protest Arena](https://games.qtmesh.dev/play/protest-arena/) *(beta)* | Browser, multiplayer | Clayground |
+| [Scrapfall](https://github.com/fernandotonon/scrapfall-web) | Browser, top-down 3D horde shooter | Godot |
+| [Data Core Clash](https://github.com/fernandotonon/Data-Core-Clash) | Roblox, IT-themed capture the flag | Roblox |
+| [Mall Makers](https://github.com/fernandotonon/Mall-Makers) | Roblox, co-op entrepreneurship and exploration | Roblox |
+| [Mothership Raiders](https://github.com/fernandotonon/Mothership-Raiders) | Roblox, team-vs-team space battle | Roblox |
+| [Mall Chase](https://github.com/fernandotonon/mall-chase-web) | Browser | Godot |
+| [Ironfang: First Siege](https://games.qtmesh.dev) | Browser RTS, demo for QtMeshEditor assets | Clayground |
+| [Bite by Bite](https://github.com/fernandotonon/Bite-by-Bite) | Browser, zombie puzzle | Clayground |
+| [IT Operation: Defend the Datacenter](https://github.com/fernandotonon/it-operation-td) | Browser tower defense | Clayground |
+| [Isabela & Pedro: A Escola Virou Aventura](https://fernandotonon.github.io/Isabela-Pedro-A-Escola-Virou-Aventura/) | Browser platformer | Clayground |
+
+More at **[games.qtmesh.dev](https://games.qtmesh.dev)**.
+
 ### Languages
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/fernandotonon)
