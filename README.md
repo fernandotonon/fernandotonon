@@ -6,8 +6,8 @@
 | | Project | What it is |
 |---|---|---|
 | ☁️ | **[QtMesh Cloud](https://qtmesh.dev)** | A SonarCloud-style service for 3D asset quality: ingest `qtmesh scan` reports from CI, track quality history and findings per project, and show live badges in your README. Also home to the [QtMesh Marketplace](https://qtmesh.dev/marketplace).  |
-| 🎮 | **[QtMesh Games](https://games.qtmesh.dev)** | My indie studio: *Small games. Big fun.* Browser games, Roblox experiences and downloadable titles, all playable from one showcase site. ([site repo](https://github.com/fernandotonon/qtmesh-games-web)) |
-| 🛠️ | **[QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor)** ⭐ | Free 3D asset tool for indie devs: merge animations, convert between 40+ formats and edit materials with AI. |
+| 🎮 | **[QtMesh Games](https://games.qtmesh.dev)** | My indie studio: *Small games. Big fun.* Browser games, Roblox experiences and downloadable titles, all playable from one showcase site. |
+| 🛠️ | **[QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor)** ⭐ | Free 3D asset tool for indie devs: merge animations, convert between 40+ formats, and edit materials with AI. |
 
 ### 🕹️ Recent games from QtMesh Games
 
