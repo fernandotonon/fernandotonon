@@ -13,16 +13,16 @@
 
 | Game | Platform | Engine |
 |---|---|---|
-| [Protest Arena](https://games.qtmesh.dev/play/protest-arena/) *(beta)* | Browser, multiplayer | Clayground |
-| [Scrapfall](https://github.com/fernandotonon/scrapfall-web) | Browser, top-down 3D horde shooter | Godot |
-| [Data Core Clash](https://github.com/fernandotonon/Data-Core-Clash) | Roblox, IT-themed capture the flag | Roblox |
-| [Mall Makers](https://github.com/fernandotonon/Mall-Makers) | Roblox, co-op entrepreneurship and exploration | Roblox |
-| [Mothership Raiders](https://github.com/fernandotonon/Mothership-Raiders) | Roblox, team-vs-team space battle | Roblox |
-| [Mall Chase](https://github.com/fernandotonon/mall-chase-web) | Browser | Godot |
-| [Ironfang: First Siege](https://games.qtmesh.dev) | Browser RTS, demo for QtMeshEditor assets | Clayground |
-| [Bite by Bite](https://github.com/fernandotonon/Bite-by-Bite) | Browser, zombie puzzle | Clayground |
-| [IT Operation: Defend the Datacenter](https://github.com/fernandotonon/it-operation-td) | Browser tower defense | Clayground |
-| [Isabela & Pedro: A Escola Virou Aventura](https://fernandotonon.github.io/Isabela-Pedro-A-Escola-Virou-Aventura/) | Browser platformer | Clayground |
+| [Protest Arena](https://games.qtmesh.dev/#/games/protest-arena) *(beta)* | Browser, multiplayer | Clayground |
+| [Scrapfall](https://games.qtmesh.dev/#/games/scrapfall) | Browser, top-down 3D horde shooter | Godot |
+| [Data Core Clash](https://games.qtmesh.dev/#/games/data-core-clash) | Roblox, IT-themed capture the flag | Roblox |
+| [Mall Makers](https://games.qtmesh.dev) | Roblox, co-op entrepreneurship and exploration | Roblox |
+| [Mothership Raiders](https://games.qtmesh.dev/#/games/mothership-raiders) | Roblox, team-vs-team space battle | Roblox |
+| [Mall Chase](https://games.qtmesh.dev/#/games/mall-chase) | Browser | Godot |
+| [Ironfang: First Siege](https://games.qtmesh.dev/#/games/ironfang) | Browser RTS, demo for QtMeshEditor assets | Clayground |
+| [Bite by Bite](https://games.qtmesh.dev/#/games/bite-by-bite) | Browser, zombie puzzle | Clayground |
+| [IT Operation: Defend the Datacenter](https://games.qtmesh.dev/#/games/it-operation) | Browser tower defense | Clayground |
+| [Isabela & Pedro: A Escola Virou Aventura](https://games.qtmesh.dev/#/games/school-adventure) | Browser platformer | Clayground |
 
 More at **[games.qtmesh.dev](https://games.qtmesh.dev)**.
 
